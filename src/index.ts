@@ -1,1 +1,4 @@
-console.log('Hello World!');
+console.log('Hello World!!!!');
+
+import 'dotenv/config';
+import './server';
